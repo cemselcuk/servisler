@@ -125,6 +125,7 @@ p {
 
 .footer {
 	background: url(img/bottom.png) repeat;
+	background-size: cover;
 	width: 100%;
 	height: 82px;
 	text-align: center;
